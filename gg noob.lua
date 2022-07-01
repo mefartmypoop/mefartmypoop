@@ -1837,7 +1837,7 @@ do
         local viewportsize = camera.ViewportSize
         if credits == nil then
             credits = newdrawing("Text", {
-                Text = "rvvz's new script v1, waterloggd#1046 c1#9964 Blitz#8177"; -- yes now be happy this is free
+                Text = "rvvz's new script v1, c1#9964 Blitz#8177"; -- yes now be happy this is free
                 Color = Color3.new(255,255,255);
                 Size = 25.0;
                 Transparency = .8;
